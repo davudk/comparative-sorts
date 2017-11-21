@@ -1,4 +1,5 @@
-##Comparative Sorts
+Comparative Sorts
+========
 
 A comparison of simple sorting algorithms. This program measures the elapsed time of algorithm and the amount of times `compareTo` is called.
 
